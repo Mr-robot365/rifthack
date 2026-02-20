@@ -7,7 +7,7 @@ import GraphVisualization from '@/components/GraphVisualization';
 import FraudRingTable from '@/components/FraudRingTable';
 import AnalysisDashboard from '@/components/AnalysisDashboard';
 import { Shield, RotateCcw } from 'lucide-react';
-import { Button } from '@/components/ui/button';
+import { Button } from '@/components/UI/button';
 import { useToast } from '@/hooks/use-toast';
 
 const Index = () => {

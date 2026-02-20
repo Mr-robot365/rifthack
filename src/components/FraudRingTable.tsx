@@ -1,6 +1,6 @@
 import { FraudRing } from '@/lib/types';
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table';
-import { Badge } from '@/components/ui/badge';
+import { Badge } from '@/components/UI/badge';
 
 interface Props {
   rings: FraudRing[];

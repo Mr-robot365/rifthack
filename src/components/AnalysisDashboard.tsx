@@ -1,6 +1,6 @@
 import { AnalysisResult } from '@/lib/types';
 import { Download, Shield, AlertTriangle, Users, Clock } from 'lucide-react';
-import { Button } from '@/components/ui/button';
+import { Button } from '@/components/UI/button';
 
 interface Props {
   result: AnalysisResult;
