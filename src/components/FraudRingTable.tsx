@@ -1,5 +1,5 @@
 import { FraudRing } from '@/lib/types';
-import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table';
+import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/UI/table';
 import { Badge } from '@/components/UI/badge';
 
 interface Props {
